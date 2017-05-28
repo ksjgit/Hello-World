@@ -1,3 +1,3 @@
 <?php
-	echo "Hello World!";
+   echo "¾È³ç Hello World!";
 ?>
